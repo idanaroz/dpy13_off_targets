@@ -1,0 +1,173 @@
+params: score_limit=18, eVal_upper_limit=3, align_min_limit=18, min_identity=100, matches=25, m_delta=99
+exl_b		exl_c	exl_d	hits
+sqt-3		1859	0		15
+col-34		454		0		4
+let-2		309		1		0
+col-157		145		1		20
+col-117		120		0		13
+col-3		120		0		13
+col-139		120		0		0
+emb-9		105		0		0
+dpy-13		105		1		869
+col-125		98		0		14
+dpy-3		94		0		0
+col-111		93		2		0
+col-98		68		0		0
+col-96		61		1		9
+col-155		55		1		20
+col-43		54		0		16
+col-95		39		0		9
+col-154	 	38		1		20
+col-97		37		0		0
+col-166		31		0		0
+col-122		27		0		0
+col-114		23		0		6
+col-160		21		0		0
+col-109 	19		0		0
+col-107		17		0		0
+col-85		13		0		0
+col-44 		13		0		3
+col-110		10		0		0
+col-45		9		3		0
+col-176		8		0		0
+dpy-7		8		5		0
+col-159	 	8		0		0
+col-60		8		1		0
+col-39		7		0		0
+rol-8		7		0		0
+col-119		7		0		6
+col-38		7		0		0
+col-183		6		0		2
+col-48		6		0		0
+col-101		5		0		0
+col-63		5		0		0
+col-180		5		0		0
+col-170 	5		0		0
+col-169 	5		0		0
+col-167		4		0		0
+col-165		4		0		0
+col-164 	3		0		0
+col-77		3		0		0
+col-161		3		0		0
+ram-2		3		0		0
+col-88 		2		0		0
+col-185 	2		1		2
+col-126		2		0		0
+col-127		2		0		0
+col-2		2		0		0
+col-90		2		0		0
+col-187		2		1		0
+col-83		2		1		0
+col-13		2		0		0
+col-146		2		0		0
+col-171 	2		0		0
+col-12		2		0		0
+dpy-8		1		1		0
+sqt-1		1		0		0
+col-7		1		0		5
+col-62		1		0		4
+col-143		1		0		6
+col-20		1		0		0
+col-181 	1		0		0
+col-178		1		0		0
+col-73		1		0		0
+col-147		1		0		0
+col-149		1		0		0
+gna-1 		1		0		0
+bli-1		1		0		0
+col-186		1		1		0
+col-153		1		0		0
+col-89		1		0		0
+dpy-5		1		0		0
+col-163		1		0		0
+col-174		1		2		0
+col-9		1		0		0
+col-121		1		0		0
+col-177		1		0		0
+col-84		1		0		0
+col-182		1		0		0
+col-40		1		0		0
+col-86		1		0		0
+col-80		1		0		4
+col-33		1		0		0
+col-81		1		0		0
+col-130		1		0		0
+col-118		1		0		0
+col-19		1		0		0
+col-91		1		0		0
+col-35		1		1		0
+col-129		0		0		0
+col-140		0		0		0
+crm-1		0		0		0
+crm-1		0		0		0
+crm-1		0		0		0
+crm-1		0		0		0
+col-156		0		0		0
+col-68		0		0		0
+col-158		0		0		0
+col-17		0		0		0
+col-41 		0		0		0
+dpy-9 		0		0		0
+col-50		0		0		0
+lon-3 		0		0		0
+col-141		0		0		0
+col-104		0		1		0
+crm-1		0		0		0
+crm-1		0		0		0
+col-150		0		0		0
+col-49		0		0		0
+col-51		0		0		0
+col-179 	0		0		0
+col-36		0		0		0
+col-14		0		0		0
+col-142		0		0		6
+col-151		0		0		0
+sqt-2		0		0		0
+col-61		0		0		0
+col-79		0		0		0
+col-148		0		0		0
+col-102		0		0		0
+col-175 	0		0		0
+cle-1		0		0		0
+col-131 	0		0		0
+col-132 	0		0		0
+col-138		0		0		0
+col-128 	0		0		0
+col-184 	0		0		0
+col-152 	0		0		0
+col-54 		0		0		0
+col-172 	0		0		0
+col-173 	0		0		0
+fipr-21 	0		0		0
+col-64 		0		1		0
+srxa-2		0		0		0
+col-105		0		0		0
+col-70 		0		0		0
+col-69 		0		0		0
+col-75 		0		0		0
+col-53 		0		0		0
+col-76 		0		0		0
+col-135 	0		0		0
+rol-6		0		0		8
+col-78 		0		0		0
+col-123 	0		0		0
+col-72 		0		0		0
+col-87 		0		0		0
+col-37 		0		0			0
+-----------------------------------------------------------
+The other genes that we found
+-----------------------------------------------------------
+dpy-4	5
+col-94	22
+col-92	22
+F31D4.11	9
+Y54B9A.1	16
+col-93	22
+Y69H2.24	9
+Y51A2D.28	923
+-----------------------------------------------------------
+Summary:
+-----------------------------------------------------------
+* 6 genes from excel that D>=99
+** 2 Got off off targets (hits for a gene that his D<=0)
+*** 8 extra genes
